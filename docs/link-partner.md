@@ -112,4 +112,4 @@ the codes from the hex dump.
 
 ---
 
-[Project overview](../README.md) · [Getting started](getting-started.md) · [The terminal](terminal.md) · [tmux and screen](tmux-and-screen.md) · [Hardware](hardware.md) · [Link partner](link-partner.md) · [Repository](repository.md)
+[Overview](../README.md) · [Hardware](hardware.md) · [Link partner](link-partner.md) · [Calculator-to-calculator protocol](../calc-to-calc-protocol-reversed/README.md)

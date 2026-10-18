@@ -1,8 +1,5 @@
 .DS_Store
 build/
-screenshots/
 *.bin
 *.elf
 *.map
-__pycache__/
-docs/pics/*.HEIC
